@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hakeemullahjan_" target="blank"><img src="https://img.shields.io/twitter/follow/hakeemullahjan_?logo=twitter&style=for-the-badge" alt="hakeemullahjan_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [hakeemullah.com](hakeemullah.com)
+- 👨‍💻 All of my projects are available at [hakeemullah.com](https://hakeemullah.com)
 
 - 📫 How to reach me **hakeemullah.yousufzai@gmail.com**
 
